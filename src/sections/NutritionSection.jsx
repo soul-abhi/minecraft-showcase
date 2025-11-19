@@ -78,7 +78,7 @@ const NutritionSection = () => {
         <div className="relative inline-block md:translate-y-20">
           <div className="general-title relative flex flex-col justify-center items-center gap-24">
             <div className="overflow-hidden place-self-start">
-              <h1 className="nutrition-title">It tracks your</h1>
+              <h1 className="nutrition-title text-green-950">It tracks your</h1>
             </div>
             <div
               style={{
@@ -95,7 +95,7 @@ const NutritionSection = () => {
 
           <div className="flex md:justify-center items-center translate-y-5">
           <div className="md:max-w-xs max-w-md">
-            <p className="text-lg md:text-right text-balance font-paragraph">
+            <p className="text-lg float-right text-balance font-paragraph text-green-950">
               Every number pulls from real community save files, showcasing
               record-breaking builds, automation density, and survival streaks
               across the BlockCraft Realms showcase.
