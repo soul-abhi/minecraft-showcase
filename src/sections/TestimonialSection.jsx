@@ -67,10 +67,12 @@ const TestimonialSection = () => {
 
   return (
     <section className="testimonials-section">
-      <div className="absolute size-full flex flex-col items-center pt-[5vw]">
-        <h1 className="text-black first-title">What The</h1>
-        <h1 className="text-light-brown sec-title">Crafters</h1>
-        <h1 className="text-black third-title">Are Saying</h1>
+      <div className="testimonial-heading">
+        <div className="title-stack">
+          <h1 className="text-white first-title">What The</h1>
+          <h1 className="text-light-brown sec-title">Crafters</h1>
+          <h1 className="text-white third-title">Are Saying</h1>
+        </div>
       </div>
 
       <div className="pin-box">
