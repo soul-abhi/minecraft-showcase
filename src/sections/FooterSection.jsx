@@ -22,7 +22,7 @@ const FooterSection = () => {
             <img src="./images/yt.svg" alt="BlockCraft YouTube Portal" />
           </div>
           <div className="social-btn">
-            <img src="./images/insta.gif" alt="BlockCraft Instagram Realm" />
+            <img src="./images/insta.svg" alt="BlockCraft Instagram Realm" />
           </div>
           
         </div>
